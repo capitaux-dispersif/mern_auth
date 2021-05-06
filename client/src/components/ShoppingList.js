@@ -11,7 +11,7 @@ class ShoppingList extends Component {
         this.props.getItems();
     }
 
-    onDeleteClick = (id) => {
+    onDeleteClick = id => {
         this.props.deleteItem(id);
     }
 

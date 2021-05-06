@@ -18,4 +18,4 @@ opacity: 1;
 .fade-exit-active{
 opacity :0.01;
 transition: opacity1 1000ms ease-in;
-}
+} 

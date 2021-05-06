@@ -40,7 +40,7 @@ class ItemModal extends Component {
         //Close Modal
         this.toggle();
 
-    }
+    };
 
 
     render() {
